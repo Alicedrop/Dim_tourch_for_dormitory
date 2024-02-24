@@ -1,5 +1,6 @@
 # 适合宿舍的微光手电筒 Dim_tourch_for_dormitory
 为晚上在宿舍学习不打扰别人设计的手电筒。
+
 A tourch designed to study in the dormitory at night without disturbing others.
 
 这是为了晚上在宿舍学习、看小说不打扰别人，也不容易被宿管发现而设计的手电筒（我们高中抓手电筒）。它的亮度合适，可以在床上看书，可以根据需要用电位器调节到合适的亮度。
@@ -8,7 +9,7 @@ A tourch designed to study in the dormitory at night without disturbing others.
 
 使用CR1220纽扣电池供电，电位器调到平时阅读的亮度一直开着，可以连续发光1个月以上，正常使用的话续航很长。
 
-项目使用立创EDA绘制，提供的是立创EDA的工程文件，也可以在release处下载gerber文件直接去打板。
+项目使用立创EDA绘制，提供的是立创EDA的工程文件，也可以在[release](https://github.com/Alicedrop/Dim_tourch_for_dormitory/releases)处下载gerber文件直接去打板。
 立创开源广场的链接：
 https://oshwhub.com/18102521490aa/mi-l_copy
 
