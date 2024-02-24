@@ -8,7 +8,7 @@ A tourch designed to study in the dormitory at night without disturbing others.
 
 使用CR1220纽扣电池供电，电位器调到平时阅读的亮度一直开着，可以连续发光1个月以上，正常使用的话续航很长。
 
-
+项目使用立创EDA绘制，提供的是立创EDA的工程文件，也可以在release处下载gerber文件直接去打板。
 
 
 ![image](https://github.com/Alicedrop/Dim_tourch_for_dormitory/assets/128953967/1079138d-0497-4727-b945-bcccdd446c3c)
