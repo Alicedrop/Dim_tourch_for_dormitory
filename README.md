@@ -3,7 +3,7 @@
 A tourch designed to study in the dormitory at night without disturbing others.
 
 这是为了晚上在宿舍学习、看小说不打扰别人，也不容易被宿管发现而设计的手电筒（我们高中抓手电筒）。它的亮度合适，可以在床上看书，可以根据需要用电位器调节到合适的亮度。
-
+特别适合晚上在宿舍床上学习不影响到别的同学，又能保证较为充足的光线照亮书本
 
 
 使用CR1220纽扣电池供电，电位器调到平时阅读的亮度一直开着，可以连续发光1个月以上，正常使用的话续航很长。
@@ -14,6 +14,10 @@ A tourch designed to study in the dormitory at night without disturbing others.
 ![image](https://github.com/Alicedrop/Dim_tourch_for_dormitory/assets/128953967/1079138d-0497-4727-b945-bcccdd446c3c)
 
 ![image](https://github.com/Alicedrop/Dim_tourch_for_dormitory/assets/128953967/d134ebe8-1270-4ea2-9bdd-ba882e41fc01)
+
+## M.L系列和Slice系列
+这个项目我从初三开始做，一共迭代了10次，最开始是M.L系列，之后为了轻薄化开始开发Slice系列。最后一次修改是大一。
+如果想做的话建议做Slice系列。
 
 ## 制造工艺注意事项
 1. R1使用的“旋转电位器YEP”封装是我画的，购买时搜索拨盘电位器即可。
