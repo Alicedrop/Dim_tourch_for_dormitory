@@ -17,7 +17,7 @@ https://oshwhub.com/18102521490aa/mi-l_copy
 ![image](https://github.com/Alicedrop/Dim_tourch_for_dormitory/assets/128953967/d134ebe8-1270-4ea2-9bdd-ba882e41fc01)
 
 ## M.L系列和Slice系列
-这个项目我从初三开始做，一共迭代了10次，最开始是M.L系列，之后为了轻薄化开始开发Slice系列。最后一次修改是大一。
+这个项目我从初三开始做，一共迭代了10次，最开始是M.L系列，M.L v6之后为了轻薄化转为开发Slice系列。最后一次修改是大一。
 ![image](https://github.com/Alicedrop/Dim_tourch_for_dormitory/assets/128953967/d60a3e8e-cdba-40ba-846f-228d89e55968)
 ![image](https://github.com/Alicedrop/Dim_tourch_for_dormitory/assets/128953967/f6778abc-02ba-4dd4-bc99-0d9b0e08a147)
 
