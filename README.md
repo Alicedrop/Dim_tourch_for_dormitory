@@ -9,7 +9,8 @@ A tourch designed to study in the dormitory at night without disturbing others.
 使用CR1220纽扣电池供电，电位器调到平时阅读的亮度一直开着，可以连续发光1个月以上，正常使用的话续航很长。
 
 项目使用立创EDA绘制，提供的是立创EDA的工程文件，也可以在release处下载gerber文件直接去打板。
-
+立创开源广场的链接：
+https://oshwhub.com/18102521490aa/mi-l_copy
 
 ![image](https://github.com/Alicedrop/Dim_tourch_for_dormitory/assets/128953967/1079138d-0497-4727-b945-bcccdd446c3c)
 
@@ -17,7 +18,10 @@ A tourch designed to study in the dormitory at night without disturbing others.
 
 ## M.L系列和Slice系列
 这个项目我从初三开始做，一共迭代了10次，最开始是M.L系列，之后为了轻薄化开始开发Slice系列。最后一次修改是大一。
-如果想做的话建议做Slice系列。
+![image](https://github.com/Alicedrop/Dim_tourch_for_dormitory/assets/128953967/d60a3e8e-cdba-40ba-846f-228d89e55968)
+![image](https://github.com/Alicedrop/Dim_tourch_for_dormitory/assets/128953967/f6778abc-02ba-4dd4-bc99-0d9b0e08a147)
+
+Slice加入了一定的人体工学设计，并且故障率降低了很多，如果想做的话建议做Slice系列。
 
 ## 制造工艺注意事项
 1. R1使用的“旋转电位器YEP”封装是我画的，购买时搜索拨盘电位器即可。
